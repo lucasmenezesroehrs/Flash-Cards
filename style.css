@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+footer{
+    background-color: blue;
+    color: aquamarine;
+    bottom: 0;
+    position: fixed;
+    width: 100%
+}
